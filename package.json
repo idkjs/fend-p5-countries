@@ -1,0 +1,12 @@
+{
+  "name": "fend-p5-countries",
+  "version": "1.0.0",
+  "description": "Udacity Fend P5 Neighborhood Map ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    	"start": "index.js"
+  },
+  "author": "Alain Armand",
+  "license": "MIT"
+}

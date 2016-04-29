@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <title>Udacity Neighborhood Map Project</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script>!window.jQuery && document.write('<script src="js/lib/jquery.min.js"><\/script>')</script>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+        <!--[if lt IE 9]>
+            <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <link href="css/style.css" rel="stylesheet">
+    <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnmF-9XcQEZPW6DFIbXg0P-DNEUKN6fVI" onerror="errorHandling()"></script>
+    </head>
+    <body>
+    <div class="place-list">
+      <div class="search-place">
+        <form class="input-group" role="search">
+          <input type="text" class="form-control" data-bind="value: Query, valueUpdate: 'keyup'" autocomplete="off">
+        </form>
+      </div>
+      <ul class="list-group show" data-bind="foreach:searchResults">
+          <li class="list-group-item" data-bind="text: name, event: {mouseover: bounceUp}"></li>
+      </ul>
+    </div>
+    
+    <div id="map-canvas"></div>
+    
+ 
+<!-- end template -->
+
+    <!-- script references -->
+    <script src="js/lib/bootstrap.min.js"></script>
+    <script src="js/lib/knockout-3.4.0.js"></script>
+    <script src="js/data-caribbean.js"></script>
+    <script src="js/index.js"></script>
+    </body>
+</html>
