@@ -34,7 +34,7 @@ node_modules
 .node_repl_history
 
 .DS_store
-
+config.codekit
 /node_modules
 /npm-debug.log
 
