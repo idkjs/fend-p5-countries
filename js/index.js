@@ -17,6 +17,7 @@ function Country(country) {
 	this.lng = country.latlng[1];
 	this.region = country.region;
 	this.capital = country.capital;
+	this.url = country.url;
 	this.marker = Marker(country);
 }
 
@@ -117,7 +118,7 @@ function Marker(country) {
 	        var text = data.current.condition.text;
 	        var icon = data.current.condition.icon;
 	        var contentString = '<div><strong>' + country.name.common + '</strong><br>' + country.capital +
-			 '<br>' + '<a href="'+country.website+'">' + country.website + '<br>' + text + ' ' + '<img src="http://'+icon+'">' +
+			 '<br>' + '<a href="'+country.url+'">' + country.url + '<br>' + text + ' ' + '<img src="http://'+icon+'">' +
 			 '</a></div>';
 			 console.log(contentString);
 	        infowindow.setContent(contentString);

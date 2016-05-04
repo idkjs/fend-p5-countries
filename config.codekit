@@ -1,0 +1,3775 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "19120",
+"files": {
+	"\/css\/bootstrap-theme.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/bootstrap-theme.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/bootstrap.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/bootstrap.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/bootstrap.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/styles.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/styles.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/img\/flags\/geo-json\/abw.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/abw.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/abw.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/afg.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/afg.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/afg.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ago.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ago.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ago.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/aia.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/aia.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/aia.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ala.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ala.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ala.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/alb.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/alb.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/alb.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/and.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/and.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/and.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/are.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/are.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/are.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/arg.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/arg.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/arg.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/arm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/arm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/arm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/asm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/asm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/asm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ata.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ata.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ata.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/atf.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/atf.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/atf.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/atg.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/atg.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/atg.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/aus.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/aus.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/aus.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/aut.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/aut.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/aut.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/aze.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/aze.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/aze.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bdi.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bdi.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bdi.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bel.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bel.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bel.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ben.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ben.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ben.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bes.divisions.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bes.divisions.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bes.divisions-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bes.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bes.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bes.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bfa.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bfa.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bfa.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bgd.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bgd.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bgd.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bgr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bgr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bgr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bhr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bhr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bhr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bhs.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bhs.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bhs.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bih.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bih.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bih.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/blm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/blm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/blm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/blr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/blr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/blr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/blz.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/blz.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/blz.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bmu.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bmu.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bmu.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bol.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bol.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bol.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bra.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bra.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bra.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/brb.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/brb.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/brb.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/brn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/brn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/brn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/btn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/btn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/btn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bvt.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bvt.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bvt.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/bwa.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/bwa.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/bwa.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/caf.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/caf.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/caf.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/can.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/can.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/can.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cck.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cck.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cck.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/che.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/che.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/che.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/chl.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/chl.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/chl.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/chn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/chn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/chn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/civ.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/civ.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/civ.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cmr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cmr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cmr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cod.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cod.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cod.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cog.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cog.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cog.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cok.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cok.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cok.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/col.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/col.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/col.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/com.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/com.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/com.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cpv.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cpv.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cpv.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cri.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cri.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cri.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cub.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cub.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cub.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cuw.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cuw.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cuw.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cxr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cxr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cxr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cym.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cym.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cym.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cyp.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cyp.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cyp.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/cze.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/cze.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/cze.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/deu.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/deu.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/deu.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/dji.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/dji.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/dji.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/dma.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/dma.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/dma.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/dnk.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/dnk.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/dnk.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/dom.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/dom.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/dom.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/dza.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/dza.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/dza.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ecu.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ecu.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ecu.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/egy.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/egy.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/egy.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/eri.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/eri.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/eri.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/esh.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/esh.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/esh.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/esp.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/esp.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/esp.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/est.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/est.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/est.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/eth.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/eth.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/eth.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/fin.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/fin.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/fin.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/fji.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/fji.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/fji.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/flk.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/flk.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/flk.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/fra.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/fra.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/fra.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/fro.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/fro.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/fro.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/fsm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/fsm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/fsm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/gab.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/gab.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/gab.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/gbr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/gbr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/gbr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/geo.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/geo.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/geo.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ggy.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ggy.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ggy.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/gha.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/gha.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/gha.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/gib.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/gib.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/gib.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/gin.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/gin.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/gin.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/glp.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/glp.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/glp.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/gmb.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/gmb.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/gmb.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/gnb.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/gnb.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/gnb.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/gnq.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/gnq.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/gnq.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/grc.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/grc.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/grc.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/grd.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/grd.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/grd.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/grl.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/grl.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/grl.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/gtm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/gtm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/gtm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/guf.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/guf.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/guf.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/gum.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/gum.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/gum.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/guy.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/guy.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/guy.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/hkg.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/hkg.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/hkg.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/hmd.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/hmd.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/hmd.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/hnd.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/hnd.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/hnd.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/hrv.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/hrv.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/hrv.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/hti.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/hti.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/hti.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/hun.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/hun.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/hun.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/idn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/idn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/idn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/imn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/imn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/imn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ind.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ind.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ind.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/iot.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/iot.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/iot.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/irl.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/irl.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/irl.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/irn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/irn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/irn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/irq.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/irq.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/irq.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/isl.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/isl.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/isl.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/isr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/isr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/isr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ita.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ita.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ita.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/jam.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/jam.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/jam.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/jey.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/jey.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/jey.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/jor.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/jor.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/jor.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/jpn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/jpn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/jpn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/kaz.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/kaz.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/kaz.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ken.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ken.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ken.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/kgz.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/kgz.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/kgz.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/khm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/khm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/khm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/kir.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/kir.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/kir.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/kna.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/kna.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/kna.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/kor.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/kor.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/kor.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/kwt.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/kwt.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/kwt.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/lao.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/lao.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/lao.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/lbn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/lbn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/lbn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/lbr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/lbr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/lbr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/lby.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/lby.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/lby.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/lca.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/lca.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/lca.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/lie.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/lie.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/lie.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/lka.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/lka.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/lka.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/lso.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/lso.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/lso.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ltu.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ltu.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ltu.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/lux.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/lux.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/lux.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/lva.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/lva.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/lva.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mac.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mac.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mac.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/maf.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/maf.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/maf.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mar.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mar.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mar.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mco.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mco.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mco.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mda.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mda.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mda.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mdg.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mdg.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mdg.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mdv.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mdv.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mdv.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mex.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mex.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mex.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mhl.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mhl.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mhl.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mkd.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mkd.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mkd.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mli.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mli.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mli.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mlt.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mlt.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mlt.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mmr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mmr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mmr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mne.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mne.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mne.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mng.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mng.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mng.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mnp.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mnp.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mnp.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/moz.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/moz.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/moz.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mrt.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mrt.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mrt.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/msr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/msr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/msr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mtq.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mtq.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mtq.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mus.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mus.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mus.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mwi.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mwi.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mwi.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/mys.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/mys.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/mys.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/myt.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/myt.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/myt.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/nam.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/nam.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/nam.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ncl.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ncl.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ncl.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ner.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ner.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ner.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/nfk.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/nfk.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/nfk.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/nga.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/nga.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/nga.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/nic.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/nic.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/nic.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/niu.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/niu.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/niu.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/nld.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/nld.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/nld.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/nor.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/nor.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/nor.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/npl.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/npl.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/npl.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/nru.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/nru.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/nru.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/nzl.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/nzl.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/nzl.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/omn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/omn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/omn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/pak.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/pak.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/pak.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/pan.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/pan.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/pan.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/pcn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/pcn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/pcn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/per.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/per.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/per.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/phl.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/phl.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/phl.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/plw.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/plw.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/plw.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/png.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/png.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/png.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/pol.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/pol.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/pol.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/pri.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/pri.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/pri.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/prk.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/prk.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/prk.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/prt.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/prt.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/prt.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/pry.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/pry.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/pry.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/pse.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/pse.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/pse.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/pyf.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/pyf.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/pyf.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/qat.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/qat.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/qat.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/reu.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/reu.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/reu.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/rou.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/rou.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/rou.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/rus.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/rus.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/rus.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/rwa.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/rwa.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/rwa.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/sau.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/sau.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/sau.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/sdn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/sdn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/sdn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/sen.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/sen.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/sen.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/sgp.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/sgp.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/sgp.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/sgs.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/sgs.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/sgs.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/shn.divisions.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/shn.divisions.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/shn.divisions-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/shn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/shn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/shn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/sjm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/sjm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/sjm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/slb.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/slb.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/slb.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/sle.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/sle.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/sle.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/slv.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/slv.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/slv.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/smr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/smr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/smr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/som.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/som.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/som.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/spm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/spm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/spm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/srb.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/srb.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/srb.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ssd.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ssd.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ssd.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/stp.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/stp.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/stp.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/sur.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/sur.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/sur.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/svk.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/svk.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/svk.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/svn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/svn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/svn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/swe.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/swe.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/swe.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/swz.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/swz.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/swz.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/sxm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/sxm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/sxm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/syc.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/syc.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/syc.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/syr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/syr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/syr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tca.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tca.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tca.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tcd.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tcd.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tcd.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tgo.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tgo.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tgo.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tha.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tha.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tha.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tjk.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tjk.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tjk.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tkl.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tkl.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tkl.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tkm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tkm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tkm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tls.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tls.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tls.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ton.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ton.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ton.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tto.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tto.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tto.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tun.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tun.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tun.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tur.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tur.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tur.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tuv.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tuv.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tuv.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/twn.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/twn.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/twn.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/tza.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/tza.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/tza.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/uga.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/uga.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/uga.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ukr.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ukr.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ukr.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/umi.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/umi.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/umi.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/unk.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/unk.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/unk.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ury.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ury.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ury.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/usa.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/usa.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/usa.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/uzb.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/uzb.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/uzb.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/vat.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/vat.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/vat.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/vct.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/vct.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/vct.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/ven.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/ven.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/ven.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/vgb.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/vgb.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/vgb.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/vir.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/vir.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/vir.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/vnm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/vnm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/vnm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/vut.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/vut.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/vut.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/wlf.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/wlf.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/wlf.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/wsm.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/wsm.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/wsm.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/yem.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/yem.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/yem.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/zaf.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/zaf.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/zaf.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/zmb.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/zmb.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/zmb.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/img\/flags\/geo-json\/zwe.geo.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/img\/flags\/geo-json\/zwe.geo.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/img\/flags\/geo-json\/zwe.geo-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/carribeanurl.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/carribeanurl.js",
+		"outputAbbreviatedPath": "\/js\/min\/carribeanurl-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/css\/bootstrap.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/css\/bootstrap.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/css\/bootstrap.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/css\/bootstrap.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/css\/simple-sidebar.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/css\/simple-sidebar.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/data-caribbean.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/data-caribbean.js",
+		"outputAbbreviatedPath": "\/js\/min\/data-caribbean-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/index.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/index.js",
+		"outputAbbreviatedPath": "\/js\/min\/index-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lib\/bootstrap.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lib\/bootstrap.min.js",
+		"outputAbbreviatedPath": "\/js\/lib\/min\/bootstrap.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lib\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lib\/jquery.min.js",
+		"outputAbbreviatedPath": "\/js\/lib\/min\/jquery.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/lib\/knockout-3.4.0.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/lib\/knockout-3.4.0.js",
+		"outputAbbreviatedPath": "\/js\/lib\/min\/knockout-3.4.0-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/package.json": {
+		"fileType": 524288,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/package.json",
+		"orderOutput": 0,
+		"outputAbbreviatedPath": "\/package-min.json",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/sass\/_phone-default.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/_phone-default.scss",
+		"outputAbbreviatedPath": "\/css\/_phone-default.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/sass\/styles.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/sass\/styles.scss",
+		"outputAbbreviatedPath": "\/css\/styles.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Alain Armand",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "fend-p5-countries",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "compass_yellow"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsonAutoOutputPathEnabled": 0,
+	"jsonAutoOutputPathFilenamePattern": "*-min.json",
+	"jsonAutoOutputPathRelativePath": "",
+	"jsonAutoOutputPathReplace1": "",
+	"jsonAutoOutputPathReplace2": "",
+	"jsonAutoOutputPathStyle": 0,
+	"jsonOrderOutput": 0,
+	"jsonOutputStyle": 1,
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownCriticStyle": 0,
+	"markdownEnableFootnotes": 1,
+	"markdownEnableLabels": 1,
+	"markdownEnableSmartQuotes": 1,
+	"markdownEscapeLineBreaks": 0,
+	"markdownMaskEmailAddresses": 1,
+	"markdownOutputFormat": 0,
+	"markdownOutputStyle": 0,
+	"markdownParseMetadata": 1,
+	"markdownProcessHTML": 0,
+	"markdownRandomFootnoteNumbers": 0,
+	"markdownUseCompatibilityMode": 0,
+	"reloadFileURLs": 0,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 10,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputFormat": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
+	"typescriptModuleType": 2,
+	"typescriptNoImplicitAny": 0,
+	"typescriptPreserveConstEnums": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptSuppressImplicitAnyIndexErrors": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}

@@ -15,6 +15,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.gobierno.aw/",
 		"tld": [
 			".aw"
 		],
@@ -100,6 +101,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.gov.ai/",
 		"tld": [
 			".ai"
 		],
@@ -184,6 +186,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.ab.gov.ag/",
 		"tld": [
 			".ag"
 		],
@@ -272,6 +275,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.bahamas.gov.bs/",
 		"tld": [
 			".bs"
 		],
@@ -361,6 +365,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.comstbarth.fr/",
 		"tld": [
 			".bl"
 		],
@@ -448,6 +453,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"https://www.gov.bb/",
 		"tld": [
 			".bb"
 		],
@@ -536,6 +542,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.cubagob.cu/",
 		"tld": [
 			".cu"
 		],
@@ -635,6 +642,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.gobiernu.cw/",
 		"tld": [
 			".cw"
 		],
@@ -714,6 +722,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.gov.ky/",
 		"tld": [
 			".ky"
 		],
@@ -802,6 +811,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.dominica.gov.dm/",
 		"tld": [
 			".dm"
 		],
@@ -893,6 +903,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.presidencia.gov.do/",
 		"tld": [
 			".do"
 		],
@@ -985,6 +996,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url": "http://www.regionguadeloupe.fr/",
 		"tld": [
 			".gp"
 		],
@@ -1070,6 +1082,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.gov.gd/",
 		"tld": [
 			".gd"
 		],
@@ -1158,6 +1171,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://primature.gouv.ht/",
 		"tld": [
 			".ht"
 		],
@@ -1253,6 +1267,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url": "http://jis.gov.jm/",
 		"tld": [
 			".jm"
 		],
@@ -1338,6 +1353,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://sknis.info/",
 		"tld": [
 			".kn"
 		],
@@ -1423,6 +1439,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.govt.lc/",
 		"tld": [
 			".lc"
 		],
@@ -1507,6 +1524,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.com-saint-martin.fr/",
 		"tld": [
 			".fr",
 			".gp"
@@ -1597,6 +1615,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.gov.ms/",
 		"tld": [
 			".ms"
 		],
@@ -1681,6 +1700,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.martinique.pref.gouv.fr/",
 		"tld": [
 			".mq"
 		],
@@ -1769,6 +1789,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url": "http://www2.pr.gov/",
 		"tld": [
 			".pr"
 		],
@@ -1865,6 +1886,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.sintmaartengov.org/",
 		"tld": [
 			".sx"
 		],
@@ -1948,8 +1970,9 @@ var caribbeanData = [
 					"official": "Turks and Caicos Islands",
 					"common": "Turks and Caicos Islands"
 				}
-				}
+			}
 		},
+		"url":"http://www.gov.tc/",
 		"tld": [
 			".tc"
 		],
@@ -2034,6 +2057,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.ttconnect.gov.tt/",
 		"tld": [
 			".tt"
 		],
@@ -2119,6 +2143,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.gov.vc/",
 		"tld": [
 			".vc"
 		],
@@ -2203,6 +2228,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"http://www.bvi.gov.vg/",
 		"tld": [
 			".vg"
 		],
@@ -2288,6 +2314,7 @@ var caribbeanData = [
 				}
 			}
 		},
+		"url":"https://www.vi.gov/",
 		"tld": [
 			".vi"
 		],
@@ -2362,8 +2389,120 @@ var caribbeanData = [
 		"borders": [],
 		"area": 347
 	}
-],
-caribbeanNames = [
+];
+
+var flags = [
+  {
+    "name": "Aruba",
+    "img": "./img/flags/aw.svg"
+  },
+  {
+    "name": "Anguilla",
+    "img": "./img/flags/ai.svg"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "img": "./img/flags/ag.svg"
+  },
+  {
+    "name": "Bahamas",
+    "img": "./img/flags/bs.svg"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "img": "./img/flags/bl.svg"
+  },
+  {
+    "name": "Barbados",
+    "img": "./img/flags/bb.svg"
+  },
+  {
+    "name": "Cuba",
+    "img": "./img/flags/cu.svg"
+  },
+  {
+    "name": "Curaçao",
+    "img": "./img/flags/cw.svg"
+  },
+  {
+    "name": "Cayman Islands",
+    "img": "./img/flags/ky.svg"
+  },
+  {
+    "name": "Dominica",
+    "img": "./img/flags/dm.svg"
+  },
+  {
+    "name": "Dominican Republic",
+    "img": "./img/flags/do.svg"
+  },
+  {
+    "name": "Guadeloupe",
+    "img": "./img/flags/gp.svg"
+  },
+  {
+    "name": "Grenada",
+    "img": "./img/flags/gd.svg"
+  },
+  {
+    "name": "Haiti",
+    "img": "./img/flags/ht.svg"
+  },
+  {
+    "name": "Jamaica",
+    "img": "./img/flags/jm.svg"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "img": "./img/flags/kn.svg"
+  },
+  {
+    "name": "Saint Lucia",
+    "img": "./img/flags/lc.svg"
+  },
+  {
+    "name": "Saint Martin",
+    "img": "./img/flags/mf.svg"
+  },
+  {
+    "name": "Montserrat",
+    "img": "./img/flags/ms.svg"
+  },
+  {
+    "name": "Martinique",
+    "img": "./img/flags/mq.svg"
+  },
+  {
+    "name": "Puerto Rico",
+    "img": "./img/flags/pr.svg"
+  },
+  {
+    "name": "Sint Maarten",
+    "img": "./img/flags/sx.svg"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "img": "./img/flags/tc.svg"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "img": "./img/flags/tt.svg"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "img": "./img/flags/vc.svg"
+  },
+  {
+    "name": "British Virgin Islands",
+    "img": "./img/flags/vg.svg"
+  },
+  {
+    "name": "United States Virgin Islands",
+    "img": "./img/flags/vi.svg"
+  }
+];
+// For each country, add a projected {id, title} pair to the videoAndTitlePairs array.
+var caribbeanNames = [
 	"Aruba",
 	"Anguilla",
 	"Antigua and Barbuda",
@@ -2391,5 +2530,19 @@ caribbeanNames = [
 	"Saint Vincent and the Grenadines",
 	"British Virgin Islands",
 	"United States Virgin Islands"
-]
+];
+// For each country, add a projected {id, title} pair to the svgImg array, concatonate .svg to create file name for each map.
+// then go the files with those name.
+
+// var flags = [];
+// caribbeanData.forEach(function(id){
+// 	var svgPrefix = id.cca2.toLowerCase();
+// 	// img:id.cca2.toLowerCase() + '.svg';
+// 	// svgImg.push({img:svgPrefix + '.svg'});
+// 	flags.push({name: id.name.common, img: "./img/flags/" + svgPrefix + '.svg'});
+// 	// caribbeanData.push(JSON.stringify({img: "./img/flags/" + svgPrefix + '.svg'}));
+// });
+// console.log(JSON.stringify(flags, null, 2));
+
+
 console.log("data loaded");
