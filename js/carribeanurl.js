@@ -27,30 +27,30 @@ var caribbeanUrl = {
 	"British Virgin Islands":"http://www.bvi.gov.vg/",
 	"United States Virgin Islands":"https://www.vi.gov/"
 };
-var cca2Array = [AW
-AI
-AG
-BS
-BL
-BB
-CU
-CW
-KY
-DM
-DO
-GP
-GD
-HT
-JM
-KN
-LC
-MF
-MS
-MQ
-PR
-SX
-TC
-TT
-VC
-VG
-VI]
+var cca2Array = [AW,
+AI,
+AG,
+BS,
+BL,
+BB,
+CU,
+CW,
+KY,
+DM,
+DO,
+GP,
+GD,
+HT,
+JM,
+KN,
+LC,
+MF,
+MS,
+MQ,
+PR,
+SX,
+TC,
+TT,
+VC,
+VG,
+VI];

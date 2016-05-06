@@ -57,10 +57,9 @@ var viewModel = function() {
 function initializeMap() {
 
 	var mapOptions = {
-
-		center: new google.maps.LatLng(17.9709108, -76.8425598),
-		zoom: 5,
-		mapTypeId: google.maps.MapTypeId.ROADMAP
+		center: new google.maps.LatLng(18.0651138,-63.202148),
+		zoom: 6,
+		mapTypeId: google.maps.MapTypeId.ROADMAP,
 	};
 	/* This next line makes `map` a new Google Map JavaScript Object and attaches it to
 		<div class="map-canvas">.
@@ -68,6 +67,7 @@ function initializeMap() {
 	map = new google.maps.Map(document.querySelector('.map-canvas'), mapOptions);
 
 	infowindow = new google.maps.InfoWindow();
+
 
 	ko.applyBindings(viewModel);
 }
@@ -170,4 +170,4 @@ var checkGoogle = function() {
 		console.log("Still loading Google Maps API");
 	}
 };
-setIntervalX(checkGoogle, 500, 5);
+setIntervalX(checkGoogle, 500, 2);

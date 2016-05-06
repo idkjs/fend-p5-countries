@@ -35,6 +35,10 @@ node_modules
 
 .DS_store
 config.codekit
+.eslintrc
+/img
+/sass
+
 
 /node_modules
 /npm-debug.log

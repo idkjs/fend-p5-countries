@@ -8,37 +8,43 @@
         <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
         <script>!window.jQuery && document.write('<script src="js/lib/jquery.min.js"><\/script>')</script>
-            <link href="css/bootstrap.min.css" rel="stylesheet">
-        <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+            <!--<link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/bootstrap-theme.min.css" rel="stylesheet">-->
         <!--[if lt IE 9]>
             <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
         <link href="css/styles.css" rel="stylesheet">
-        <!--<script src="js/map.js"></script>-->
         <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnmF-9XcQEZPW6DFIbXg0P-DNEUKN6fVI" onerror="errorHandling()"></script>
         
-        <!--<script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBnmF-9XcQEZPW6DFIbXg0P-DNEUKN6fVI&callback=initializeMap" onerror="errorHandling()"></script>-->
     </head>
     <body>
-    <div class="place-list">
-        
-        <input class="search-place"type="search" data-bind="value: Query, valueUpdate: 'keyup'" autocomplete="off" class="form-control" placeholder="Search" />
-       
-        <ul class="list-group show" data-bind="foreach:searchResults">
-            <a href="#" class="list-group-item" data-bind="event: {mouseover: bounceUp}, css: {active: name}">
-                <h4 class="list-group-item-heading" data-bind="text: name"></h4>
-                <p class="list-group-item-text" data-bind="text: capital"></p>
-            </a>
-        </ul>
-        
-    </div><!--place-list-->
-    <div class="container">
-    <div class="map-canvas"></div>
-    </div>
+    <div class="flexbox-container">
+
+        <div class="left_container">
+            <div class="flexbox-place-list">
+                <form>
+                <input type="text" placeholder="Search Here" class="focus" data-bind="value: Query, valueUpdate: 'keyup'" autocomplete="off" class="form-control" placeholder="Search" />
+                </form>
+                <ul data-bind="foreach:searchResults">
+                
+                    <li data-bind="event: {mouseover: bounceUp}">
+                        <div>
+                    <!--<a href="#" class= data-bind="event: {mouseover: bounceUp}">-->
+                        <span data-bind="text: name"></span><br>
+                        <span class="capital" data-bind="text: capital"></span>
+                        </div>
+                    </li>
+                </ul>   
+            </div><!--place-list-->
+        </div>
+        <!--left_container-->
+        <div class="map-canvas"></div>
+    
+    </div><!--container-->
 <!-- end template -->
 
     <!-- script references -->
-    <script src="js/lib/bootstrap.min.js"></script>
+    <!--<script src="js/lib/bootstrap.min.js"></script>-->
     <script src="js/lib/knockout-3.4.0.js"></script>
     <script src="js/data-caribbean.js"></script>
     <script src="js/index.js"></script>
