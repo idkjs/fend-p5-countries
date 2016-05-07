@@ -34,11 +34,12 @@ node_modules
 .node_repl_history
 
 .DS_store
-config.codekit
+
 .eslintrc
 /img
 /sass
-
+/gulpfile.js
+/jsconfig.json
 
 /node_modules
 /npm-debug.log
