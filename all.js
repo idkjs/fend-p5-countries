@@ -2393,111 +2393,111 @@ var caribbeanData = [
 var flags = [
   {
     "name": "Aruba",
-    "img": "./img/flags/aw.svg"
+    "img": "./img/flags/abw.svg"
   },
   {
     "name": "Anguilla",
-    "img": "./img/flags/ai.svg"
+    "img": "./img/flags/aia.svg"
   },
   {
     "name": "Antigua and Barbuda",
-    "img": "./img/flags/ag.svg"
+    "img": "./img/flags/atg.svg"
   },
   {
     "name": "Bahamas",
-    "img": "./img/flags/bs.svg"
+    "img": "./img/flags/bhs.svg"
   },
   {
     "name": "Saint Barthélemy",
-    "img": "./img/flags/bl.svg"
+    "img": "./img/flags/blm.svg"
   },
   {
     "name": "Barbados",
-    "img": "./img/flags/bb.svg"
+    "img": "./img/flags/brb.svg"
   },
   {
     "name": "Cuba",
-    "img": "./img/flags/cu.svg"
+    "img": "./img/flags/cub.svg"
   },
   {
     "name": "Curaçao",
-    "img": "./img/flags/cw.svg"
+    "img": "./img/flags/cuw.svg"
   },
   {
     "name": "Cayman Islands",
-    "img": "./img/flags/ky.svg"
+    "img": "./img/flags/cym.svg"
   },
   {
     "name": "Dominica",
-    "img": "./img/flags/dm.svg"
+    "img": "./img/flags/dma.svg"
   },
   {
     "name": "Dominican Republic",
-    "img": "./img/flags/do.svg"
+    "img": "./img/flags/dom.svg"
   },
   {
     "name": "Guadeloupe",
-    "img": "./img/flags/gp.svg"
+    "img": "./img/flags/glp.svg"
   },
   {
     "name": "Grenada",
-    "img": "./img/flags/gd.svg"
+    "img": "./img/flags/grd.svg"
   },
   {
     "name": "Haiti",
-    "img": "./img/flags/ht.svg"
+    "img": "./img/flags/hti.svg"
   },
   {
     "name": "Jamaica",
-    "img": "./img/flags/jm.svg"
+    "img": "./img/flags/jam.svg"
   },
   {
     "name": "Saint Kitts and Nevis",
-    "img": "./img/flags/kn.svg"
+    "img": "./img/flags/kna.svg"
   },
   {
     "name": "Saint Lucia",
-    "img": "./img/flags/lc.svg"
+    "img": "./img/flags/lca.svg"
   },
   {
     "name": "Saint Martin",
-    "img": "./img/flags/mf.svg"
+    "img": "./img/flags/maf.svg"
   },
   {
     "name": "Montserrat",
-    "img": "./img/flags/ms.svg"
+    "img": "./img/flags/msr.svg"
   },
   {
     "name": "Martinique",
-    "img": "./img/flags/mq.svg"
+    "img": "./img/flags/mtq.svg"
   },
   {
     "name": "Puerto Rico",
-    "img": "./img/flags/pr.svg"
+    "img": "./img/flags/pri.svg"
   },
   {
     "name": "Sint Maarten",
-    "img": "./img/flags/sx.svg"
+    "img": "./img/flags/sxm.svg"
   },
   {
     "name": "Turks and Caicos Islands",
-    "img": "./img/flags/tc.svg"
+    "img": "./img/flags/tca.svg"
   },
   {
     "name": "Trinidad and Tobago",
-    "img": "./img/flags/tt.svg"
+    "img": "./img/flags/tto.svg"
   },
   {
     "name": "St. Vincent & the Grenadines",
-    "img": "./img/flags/vc.svg"
+    "img": "./img/flags/vct.svg"
   },
   {
     "name": "British Virgin Islands",
-    "img": "./img/flags/vg.svg"
+    "img": "./img/flags/vgb.svg"
   },
   {
     "name": "United States Virgin Islands",
-    "img": "./img/flags/vi.svg"
+    "img": "./img/flags/vir.svg"
   }
 ];
 // For each country, add a projected {id, title} pair to the videoAndTitlePairs array.
@@ -2533,15 +2533,15 @@ var caribbeanNames = [
 // For each country, add a projected {id, title} pair to the svgImg array, concatonate .svg to create file name for each map.
 // then go the files with those name.
 
-// var flags = [];
-// caribbeanData.forEach(function(id){
-// 	var svgPrefix = id.cca2.toLowerCase();
-// 	// img:id.cca2.toLowerCase() + '.svg';
-// 	// svgImg.push({img:svgPrefix + '.svg'});
-// 	flags.push({name: id.name.common, img: "./img/flags/" + svgPrefix + '.svg'});
-// 	// caribbeanData.push(JSON.stringify({img: "./img/flags/" + svgPrefix + '.svg'}));
-// });
-// console.log(JSON.stringify(flags, null, 2));
+var flags = [];
+caribbeanData.forEach(function(id){
+	var svgPrefix = id.cca3.toLowerCase();
+	// img:id.cca2.toLowerCase() + '.svg';
+	// svgImg.push({img:svgPrefix + '.svg'});
+	flags.push({name: id.name.common, img: "./img/flags/" + svgPrefix + '.svg'});
+	// caribbeanData.push(JSON.stringify({img: "./img/flags/" + svgPrefix + '.svg'}));
+});
+console.log(JSON.stringify(flags, null, 2));
 /*
 Generate the custom Google Map for the website. See the documentation below for more details.
 https://developers.google.com/maps/documentation/javascript/reference
