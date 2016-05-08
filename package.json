@@ -25,12 +25,18 @@
   "homepage": "https://github.com/kaona/fend-p5-countries#readme",
   "devDependencies": {
     "gulp-autoprefixer": "3.1.0",
+    "gulp-clean": "0.3.2",
     "gulp-concat": "2.6.0",
     "gulp-jshint": "2.0.0",
+    "gulp-livereload": "3.8.1",
     "gulp-rename": "1.2.2",
     "gulp-sass": "2.3.1",
     "gulp-uglify": "1.5.3",
+    "gulp-watch": "4.3.5",
     "gulp-webserver": "0.9.1",
     "jshint": "2.9.2"
+  },
+  "dependencies": {
+    "gulp": "3.9.1"
   }
 }
