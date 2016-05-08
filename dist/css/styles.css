@@ -79,4 +79,50 @@ textarea:focus {
   margin: 5px 1px 3px 0px;
   border: 1px solid #51cbee; }
 
+.icon-container {
+  margin-top: 10px; }
+
+.icon-container .icon {
+  height: 64px;
+  width: 64px;
+  display: inline-block;
+  vertical-align: middle; }
+
+.icon-container .content {
+  display: inline-block;
+  vertical-align: middle; }
+
+figure {
+  display: block;
+  background: #cdf;
+  width: 90%;
+  max-width: 50em;
+  box-sizing: border-box;
+  margin: 1em auto;
+  padding: 0.5em 1em;
+  border: solid thin navy; }
+
+figure:nth-of-type(2n) {
+  background: #bfc; }
+
+figcaption, figure > div {
+  display: block;
+  vertical-align: middle; }
+
+figure > div {
+  text-align: center; }
+
+img, svg, .bg-svg {
+  border: none; }
+
+svg.defs-only {
+  display: block;
+  position: absolute;
+  height: 0;
+  width: 0;
+  margin: 0;
+  padding: 0;
+  border: none;
+  overflow: hidden; }
+
 /*# sourceMappingURL=styles.css.map */

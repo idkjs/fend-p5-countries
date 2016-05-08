@@ -1,4 +1,3 @@
-console.log("data loading");
 var caribbeanData = [
 	{
 		"name": {
@@ -2543,15 +2542,12 @@ var caribbeanNames = [
 // 	// caribbeanData.push(JSON.stringify({img: "./img/flags/" + svgPrefix + '.svg'}));
 // });
 // console.log(JSON.stringify(flags, null, 2));
-
-
-console.log("data loaded");
 /*
 Generate the custom Google Map for the website. See the documentation below for more details.
 https://developers.google.com/maps/documentation/javascript/reference
 */
 
-var map; // declares a global map variable
+var map, maps; // declares a global map variable
 var infowindow;
 var google;
 var caribbeanData;
@@ -2564,6 +2560,7 @@ function Country(country) {
 	this.region = country.region;
 	this.capital = country.capital;
 	this.url = country.url;
+	this.abbr = country.cca3;
 	this.marker = Marker(country);
 }
 
@@ -2595,7 +2592,7 @@ var viewModel = function() {
 
 	/* this binds the list results to their map markers.*/
 	bounceUp = function(country) {
-		google.maps.event.trigger(country.marker, 'mouseover');
+		google.maps.event.trigger(country.marker, 'click');
 	};
 };
 
@@ -2632,9 +2629,19 @@ function errorHandling() {
 function getInfoWindowEvent() {
 	infowindow.close();
 }
+
+function getHostName(url) {
+    var match = url.match(/:\/\/(www[0-9]?\.)?(.[^/:]+)/i);
+    if (match != null && match.length > 2 && typeof match[2] === 'string' && match[2].length > 0) {
+    return match[2];
+    }
+    else {
+        return null;
+    }
+}
 /* creates the markers for each result location */
 function Marker(country) {
-
+	var name = country.name.common;
 	function toggleBounce() {
 		if (country.marker.getAnimation() !== null) {
 			country.marker.setAnimation(null);
@@ -2649,7 +2656,7 @@ function Marker(country) {
 	country.marker = new google.maps.Marker({
 
 		map: map,
-		name: country.name,
+		name: country.name.common,
 		position: {
 			lat: country.latlng[0],
 			lng: country.latlng[1]
@@ -2659,7 +2666,7 @@ function Marker(country) {
 	});
 
 	/* listens for click to make location marker bounce.*/
-	country.marker.addListener('mouseover', function() {
+	country.marker.addListener('click', function() {
 		toggleBounce();
 		var lat = country.latlng[0];
 		var lon = country.latlng[1];
@@ -2670,10 +2677,17 @@ function Marker(country) {
 				console.log(apixuReq);
 				console.log(JSON.stringify(data, undefined, 2));
 				var text = data.current.condition.text;
+				console.log(text);
 				var icon = data.current.condition.icon;
-				var contentString = '<div><strong>' + country.name.common + '</strong><br>' + country.capital +
-					'<br>' + '<a href="' + country.url + '">' + country.url + '<br>' + text + ' ' + '<img src="http://' + icon + '">' +
-					'</a></div>';
+				var url = country.url;
+				var rootUrl = getHostName(country.url);
+				var flagPath = 'img/flags/' + country.cca3.toLowerCase() + '.svg';
+				var flagImg = '<div>' + '<img src="' + flagPath +'" ' + 'width="200"' + 'height="100">' + '</div>';
+				var flagDiv = '<figure>' + flagImg + '</figure>';
+				var websiteString = 'Gov Website: ' + '<a href="' + country.url + '"> '+ rootUrl + '</a>' + '<br><br>';
+				var iconContainer = '<div class="icon-container">' + '<span class="content">'+ text + '</span>' + '<div class="icon">' + '<img src="http://' + icon + '">' + '</div>' + '</div>';
+				var contentString = '<div><h3>' + country.name.common + '</h3>' + '<h4>' + country.capital + '</h4>' + flagImg + '<br>' + websiteString + "Today's Weather:" + '<br>' + iconContainer + '</div>';
+				console.log(country.url);
 				infowindow.setContent(contentString);
 		})
 		.fail(function(data) {
@@ -2688,7 +2702,6 @@ function Marker(country) {
 		});
 		// $.getJSON(apixuReq).done(function(data) {
 		// 	var error = data.error;
-
 		// 	if (!error) {
 		// 		console.log(apixuReq);
 		// 		console.log(data);
@@ -2714,29 +2727,3 @@ function Marker(country) {
 
 	return country.marker;
 }
-/* Make sure google is loaded and if not check 5x more times before error alert.
-http://stackoverflow.com/questions/2956966/javascript-telling-setinterval-to-only-fire-x-amount-of-times
-*/
-function setIntervalX(callback, delay, repetitions) {
-	var x = 0;
-	var intervalID = setInterval(function() {
-
-		callback();
-
-		if (google) {
-			clearInterval(intervalID);
-		} else
-
-		if (++x === repetitions) {
-			alert("Google Map Failed to Load");
-		}
-	}, delay);
-}
-var checkGoogle = function() {
-	if (typeof google !== 'undefined') {
-		initializeMap();
-	} else {
-		console.log("Still loading Google Maps API");
-	}
-};
-setIntervalX(checkGoogle, 500, 2);

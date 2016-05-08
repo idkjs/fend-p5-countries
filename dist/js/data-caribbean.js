@@ -1,4 +1,3 @@
-console.log("data loading");
 var caribbeanData = [
 	{
 		"name": {
@@ -2543,6 +2542,3 @@ var caribbeanNames = [
 // 	// caribbeanData.push(JSON.stringify({img: "./img/flags/" + svgPrefix + '.svg'}));
 // });
 // console.log(JSON.stringify(flags, null, 2));
-
-
-console.log("data loaded");
