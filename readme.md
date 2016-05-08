@@ -2,6 +2,8 @@
 
 #Neighborhood Map Project - Udacity Web Development Nanodegree Project
 
+Live app: http://kaona.github.io/fend-p5-countries/
+
 To run:
 
 Download or fork the application from: https://github.com/kaona/fend-p5-countries
@@ -35,3 +37,9 @@ https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/t
 https://travismaynard.com/writing/getting-started-with-gulp
 https://cmatskas.com/setting-up-a-gulp-task-with-visual-studio-code/
 http://justinmccandless.com/post/a-tutorial-for-getting-started-with-gulp/
+http://blog.kevinchisholm.com/javascript/node-js/javascript-concatenation-and-minification-with-the-grunt-js-task-runer/
+
+#Infowindow Styling
+URL - http://www.primaryobjects.com/2012/11/19/parsing-hostname-and-domain-from-a-url-with-javascript/
+Weather - http://stackoverflow.com/questions/3106290/align-icons-with-text
+SVG - https://css-tricks.com/scale-svg/

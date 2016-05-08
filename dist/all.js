@@ -2533,15 +2533,15 @@ var caribbeanNames = [
 // For each country, add a projected {id, title} pair to the svgImg array, concatonate .svg to create file name for each map.
 // then go the files with those name.
 
-var flags = [];
-caribbeanData.forEach(function(id){
-	var svgPrefix = id.cca3.toLowerCase();
-	// img:id.cca2.toLowerCase() + '.svg';
-	// svgImg.push({img:svgPrefix + '.svg'});
-	flags.push({name: id.name.common, img: "./img/flags/" + svgPrefix + '.svg'});
-	// caribbeanData.push(JSON.stringify({img: "./img/flags/" + svgPrefix + '.svg'}));
-});
-console.log(JSON.stringify(flags, null, 2));
+// var flags = [];
+// caribbeanData.forEach(function(id){
+// 	var svgPrefix = id.cca3.toLowerCase();
+// 	// img:id.cca2.toLowerCase() + '.svg';
+// 	// svgImg.push({img:svgPrefix + '.svg'});
+// 	flags.push({name: id.name.common, img: "./img/flags/" + svgPrefix + '.svg'});
+// 	// caribbeanData.push(JSON.stringify({img: "./img/flags/" + svgPrefix + '.svg'}));
+// });
+// console.log(JSON.stringify(flags, null, 2));
 /*
 Generate the custom Google Map for the website. See the documentation below for more details.
 https://developers.google.com/maps/documentation/javascript/reference

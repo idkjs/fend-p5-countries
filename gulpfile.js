@@ -24,6 +24,7 @@ var paths = {
  libs: ['js/lib/*.js'],
  css: ['css/*.css'],
  sass: ['sass/*.scss'],
+ img: ['img/flags/*.svg'],
  html: ['index.html']
 };
 
@@ -50,6 +51,9 @@ gulp.src(paths.libs, {cwd: 'app/**'})
 .pipe(gulp.dest(bases.dist));
 
 gulp.src(paths.js, {cwd: 'app/**'})
+ .pipe(gulp.dest(bases.dist));
+ 
+gulp.src(paths.img, {cwd: 'app/**'})
  .pipe(gulp.dest(bases.dist));
 
 });
