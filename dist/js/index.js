@@ -97,7 +97,7 @@ function getHostName(url) {
 }
 /* creates the markers for each result location */
 function Marker(country) {
-	var name = country.name.common;
+	
 	function toggleBounce() {
 		if (country.marker.getAnimation() !== null) {
 			country.marker.setAnimation(null);
@@ -126,9 +126,10 @@ function Marker(country) {
 		toggleBounce();
 		var lat = country.latlng[0];
 		var lon = country.latlng[1];
-		var apixuReq = 'http://api.apixu.com/v1/current.json?key=4da212f910d14f3a8dc144355162804&q=' + lat + ',' + lon + '';
-		// var apixuReq = 'http://api.apixu.com/v1/current.json?key=WRONGda212f910d14f3a8dc144355162804&q=' + lat + ',' + lon + '';
+		// var apixuReq = 'http://api.apixu.com/v1/current.json?key=4da212f910d14f3a8dc144355162804&q=' + lat + ',' + lon + '';
+		var apixuReq = 'http://api.apixuddd.com/v1/current.json?key=WRONGda212f910d14f3a8dc144355162804&q=' + lat + ',' + lon + '';
 		$.getJSON(apixuReq).done(function(data) {
+			var error = data.error;
 			var text, icon;
 			var url = country.url;
 			var rootUrl = getHostName(country.url);
@@ -136,45 +137,40 @@ function Marker(country) {
 			var flagImg = '<div>' + '<img src="' + flagPath +'" ' + 'width="200"' + 'height="100">' + '</div>';
 			var flagDiv = '<figure>' + flagImg + '</figure>';
 			var websiteString = 'Gov Website: ' + '<a href="' + country.url + '"> '+ rootUrl + '</a>' + '<br><br>';
-			var iconContainer = '<div class="icon-container">' + '<span class="content">'+ text + '</span>' + '<div class="icon">' + '<img src="http://' + icon + '">' + '</div>' + '</div>';
-			
+			// var iconContainer = '<div class="icon-container">' + '<span class="content">'+ text + '</span>' + '<div class="icon">' + '<img src="http://' + icon + '">' + '</div>' + '</div>';
 			if (!error) {
 				console.log(apixuReq);
 				console.log(JSON.stringify(data, undefined, 2));
 				var text = data.current.condition.text;
 				console.log(text);
 				var icon = data.current.condition.icon;
+				var iconContainer = '<div class="icon-container">' + '<span class="content">'+ text + '</span>' + '<div class="icon">' + '<img src="http://' + icon + '">' + '</div>' + '</div>';
+				var contentString = '<div><h3>' + country.name.common + '</h3>' + '<h4>' + country.capital + '</h4>' + flagImg + '<br>' + websiteString + "Today's Weather:" + '<br>' + iconContainer + '</div>';
 			} else if (error) {
 				console.log("error code " + error.code + ", " + error.message);
-				var text = "Sorry, no weather for " + country.capital + ".";
-				var icon = '';
+				text = "Sorry, no weather for " + country.capital + ".";
+				icon = '';
+				var iconContainer = '<div class="icon-container">' + '<span class="content">'+ text + '</span>' + '<div class="icon">' + '<img src="http://' + icon + '">' + '</div>' + '</div>';
+				var contentString = '<div><h3>' + country.name.common + '</h3>' + '<h4>' + country.capital + '</h4>' + flagImg + '<br>' + websiteString + "Today's Weather:" + '<br>' + iconContainer + '</div>';
 			}
-			var contentString = '<div><h3>' + country.name.common + '</h3>' + '<h4>' + country.capital + '</h4>' + flagImg + '<br>' + websiteString + "Today's Weather:" + '<br>' + iconContainer + '</div>';
 			infowindow.setContent(contentString);
-		});
-
-		// $.getJSON(apixuReq).done(function(data) {
-		// 	var error = data.error;
-		// 	if (!error) {
-		// 		console.log(apixuReq);
-		// 		console.log(data);
-		// 		var text = data.current.condition.text;
-		// 		var icon = data.current.condition.icon;
-		// 		var contentString = '<div><strong>' + country.name.common + '</strong><br>' + country.capital +
-		// 			'<br>' + '<a href="' + country.url + '">' + country.url + '<br>' + text + ' ' + '<img src="http://' + icon + '">' +
-		// 			'</a></div>';
-		// 		infowindow.setContent(contentString);
-		// 	} else if (error) {
-		// 		console.log("error code " + error.code + ", " + error.message);
-		// 		var text = "Sorry, no weather for " + country.capital + ".";
-		// 		var icon = '';
-		// 		var contentString = '<div><strong>' + country.name.common + '</strong><br>' + country.capital +
-		// 			'<br>' + '<a href="' + country.url + '">' + country.url + '<br>' + text + ' ' + '<img src="http://' + icon + '">' +
-		// 			'</a></div>';
-		// 		infowindow.setContent(contentString);
-		// 	}
-		// });
-
+		})
+		.fail(function() {
+    		// alert( "$.get failed!" );
+			console.log("error code ");
+				var url = country.url;
+			var rootUrl = getHostName(country.url);
+			var flagPath = 'img/flags/' + country.cca3.toLowerCase() + '.svg';
+			var flagImg = '<div>' + '<img src="' + flagPath +'" ' + 'width="200"' + 'height="100">' + '</div>';
+			var flagDiv = '<figure>' + flagImg + '</figure>';
+			var websiteString = 'Gov Website: ' + '<a href="' + country.url + '"> '+ rootUrl + '</a>' + '<br><br>';
+				text = "Sorry, no weather for " + country.capital + ".";
+				icon = '';
+				var iconContainer = '<div class="icon-container">' + '<span class="content">'+ text + '</span>' + '<div class="icon">' + '<img src="http://' + icon + '">' + '</div>' + '</div>';
+				var contentString = '<div><h3>' + country.name.common + '</h3>' + '<h4>' + country.capital + '</h4>' + flagImg + '<br>' + websiteString + "Today's Weather:" + '<br>' + iconContainer + '</div>';
+				infowindow.setContent(contentString); 
+  		});
+		  
 		infowindow.open(map, this);
 	});
 

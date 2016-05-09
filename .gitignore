@@ -16,6 +16,7 @@ coverage
 
 # Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
+.gulpfile
 
 # node-waf configuration
 .lock-wscript
@@ -40,6 +41,7 @@ node_modules
 /sass
 gulpfile.js
 jsconfig.json
+.gitignore
 
 /node_modules
 /npm-debug.log
