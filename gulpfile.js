@@ -24,7 +24,7 @@ var paths = {
  libs: ['js/lib/*.js'],
  css: ['css/*.css'],
  sass: ['sass/*.scss'],
- img: ['img/flags/*.svg'],
+ img: ['img/**/*.*'],
  html: ['index.html']
 };
 

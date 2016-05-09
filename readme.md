@@ -32,6 +32,8 @@ https://css-tricks.com/snippets/css/glowing-blue-input-highlights/
 #Flexbox Generally
 Pluralsight.com
 https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents
+http://jsfiddle.net/JonMoore/LLfcL28u/24/
+https://github.com/philipwalton/solved-by-flexbox
 
 #Gulp Process
 https://travismaynard.com/writing/getting-started-with-gulp
