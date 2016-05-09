@@ -100,18 +100,16 @@ header {
 @media (min-width: 800px) {
   .branding {
     padding: 0 24px; }
-
   .menu-toggle {
     display: none; }
-
   nav .title-block {
     display: none; } }
+
 @media (max-width: 800px) {
   order: 0;
   header .branding,
   header {
     flex: 0 0 64px; }
-
   nav {
     position: absolute;
     top: 0;
@@ -125,6 +123,7 @@ header {
     nav.open {
       left: 0;
       box-shadow: 2px 0 8px rgba(0, 0, 0, 0.24); } }
+
 .icon-container {
   margin-top: 10px; }
 
@@ -170,5 +169,3 @@ svg.defs-only {
   padding: 0;
   border: none;
   overflow: hidden; }
-
-/*# sourceMappingURL=styles.css.map */
