@@ -10,6 +10,13 @@
         <link href="css/styles.css" rel="stylesheet">
         <script>
             function googleSuccess() {
+                $( document ).ready(function() {
+                    console.log( "document loaded" );
+                });
+            
+                $( window ).load(function() {
+                    console.log( "window loaded" );
+                });
                 initializeMap();
             }
         </script>
